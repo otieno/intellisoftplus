@@ -9,6 +9,7 @@ gem 'prawn','0.6.3'
 gem 'rdoc'
 gem 'test-unit'
 gem 'mysql'
+gem 'sequel',"~>3.20.0"
 
 # bundler requires these gems in all environments
 # gem "nokogiri", "1.4.2"
